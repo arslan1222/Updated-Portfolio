@@ -23,6 +23,7 @@ const Work = () => {
             <a
               key={index}
               target="_blank"
+              href={work.wLink}
               rel="noopener noreferrer"
             >
               <img src={work.wImage} />
