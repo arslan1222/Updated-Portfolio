@@ -19,7 +19,7 @@ const MainContent = () => {
       <h1>
         I'm <span className="name">Arslan Haider</span>
       </h1>
-      <h2>Profesional Full Stack Web Developer</h2>
+      <h2>Full Stack Web Developer</h2>
       <p>
         Experienced MERN stack developer skilled in building dynamic, scalable
         web applications <br /> with a focus on performance and user experience.

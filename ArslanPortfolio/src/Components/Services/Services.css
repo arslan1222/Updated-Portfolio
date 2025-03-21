@@ -23,6 +23,10 @@
     margin: 0 auto;
 }
 
+.services-title:hover {
+    border-color: rgb(101, 160, 248);
+}
+
 .format {
     display: flex;
     flex-direction: column;

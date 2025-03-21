@@ -22,6 +22,10 @@
     margin: 0 auto;
 }
 
+.work-title:hover {
+    border-color: rgb(101, 160, 248);
+}
+
 .work-container {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -56,6 +60,10 @@
     .work-title {
         font-size: 14px;
         padding: 2px 20px;
+    }
+
+    .work-title:hover {
+        border-color: rgb(101, 160, 248);
     }
 
     .work-container {

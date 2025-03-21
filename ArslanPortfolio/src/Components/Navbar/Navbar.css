@@ -15,6 +15,12 @@
     color: white;
 }
 
+.link:hover {
+    color: rgb(101, 160, 248);
+}
+
+
+
 .nav-menu {
     display: flex;
     align-items: center;
@@ -48,7 +54,16 @@
     border-radius: 80px;
     background: linear-gradient(to right, rgb(2, 23, 65), rgb(34, 108, 112));
     font-size: 16px;
+    border: 1px solid white;
     cursor: pointer;
+}
+
+.nav-connect:hover {
+    border: 1px solid rgb(101, 160, 248);
+}
+
+.nav-connect:hover {
+    color: white;
 }
 
 .nav-open {

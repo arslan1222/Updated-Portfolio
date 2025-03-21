@@ -21,6 +21,10 @@
     margin: 0 auto;
 }
 
+.about-me:hover {
+    border-color: rgb(101, 160, 248);
+}
+
 .about-desc {
     display: flex;
     align-items: center;
@@ -125,6 +129,10 @@
     .about-me {
         font-size: 14px;
         padding: 2px 20px;
+    }
+
+    .about-me:hover {
+        border-color: rgb(101, 160, 248);
     }
 
     .html-css {
