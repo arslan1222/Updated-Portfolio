@@ -19,8 +19,7 @@ const About = () => {
       <div className="about-desc">
         <p>
           <span className="lg-screen">
-            As a Full Stack Web Developer, I build responsive, high-performance
-            web applications tailored to client needs and business goals.
+            I am a MERN stack developer with experience in creating dynamic and scalable web applications. I focus on building fast, user-friendly websites using technologies like React.js, Node.js, Express.js, MongoDB, PHP, and Laravel.
           </span>
           
           Skilled in the MERN stack, <br /> I develop scalable solutions that enhance

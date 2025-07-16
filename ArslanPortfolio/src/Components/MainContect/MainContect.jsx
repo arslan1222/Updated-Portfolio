@@ -17,11 +17,11 @@ const MainContent = () => {
     >
       <img className="profile-icon" src={profileIcon} alt="Profile Icon" />
       <h1>
-        I'm <span className="name">Arslan Haider</span>
+        I am <span className="name">Arslan Haider</span>
       </h1>
       <h2>Full Stack Web Developer</h2>
       <p>
-        Experienced MERN stack developer skilled in building dynamic, scalable
+        I am Full Stack Web Developer skilled in building dynamic, scalable
         web applications <br /> with a focus on performance and user experience.
       </p>
       <div className="main-action">
